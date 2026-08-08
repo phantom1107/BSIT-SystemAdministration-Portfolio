@@ -1,10 +1,10 @@
 # Week 1 – Building My Professional Environment
 
 ## Student Information
-Name: Roberto Tamayo 
-Course: BSIT
-Section: 4D
-Date: August 8, 2026
+8 Name: Roberto Tamayo 
+8 Course: BSIT
+8 Section: 4D
+8 Date: August 8, 2026
 
 # Objectives
 1. To install the needed desktop application needed for the whole subject or semester.

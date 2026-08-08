@@ -26,3 +26,12 @@ Note: it is inside the screenshots folder
 
 # Challenges Encountered
 The only challenges I encountered is the verifying of the LinkedIn account, cus for some reason when I try to verify with my ID it wants passport.
+
+# Reflection
+I learned quite a lot doing these activities for Week 01 of our subject. First is how important setting up my social like Github, its much easier to see my projects and
+other things I've done throughout my years in college as an IT Student. I also realize how big the ISO files are to run in the Virtual Box application. Regardless, I actually had 
+fun doing these Week 1 activities for some reason, usually I just get lazy doing these but yeah its different this time. 
+
+# References
+1. https://github.com/
+2. http://linkedin.com/

@@ -9,6 +9,7 @@ Date: August 8, 2026
 # Objectives
 1. To install the needed desktop application needed for the whole subject or semester.
 2. To update my social accounts such as Github and LinkedIn.
+3. To organize my GitHub and create a new repository named "BSIT-SystemAdministration-Portfolio."
 
 # Software Installed
 1. Git (Gui/Bash)

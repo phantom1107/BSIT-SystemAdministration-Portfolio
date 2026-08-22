@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project is about creating an IT infrastructure plan for ABC Startup Solutions, a newly established software development company with 20 employees. The company needed a complete infrastructure plan before purchasing equipment, setting up a network, and deploying IT services.
+This project is about creating an IT infrastructure plan for ZenithTech, a newly established software development company with 20 employees. The company needed a complete infrastructure plan before purchasing equipment, setting up a network, and deploying IT services.
 
 The project covers the company's company profile, hardware and software requirements, network infrastructure, network topology, system administration roles, infrastructure recommendations, and personal reflection.
 
